@@ -15,3 +15,7 @@ This project analyzes Netflix movies and TV shows dataset to uncover trends, pat
 
 ## Project Status
 Work in progress 
+
+## Key Insight
+
+1] Netflix experienced rapid content expansion starting around 2016, peaking around 2019–2020, indicating a strategic shift towards aggressive content acquisition.
