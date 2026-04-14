@@ -65,7 +65,6 @@ Netflix-analysis/
 ├── requirements.txt    # Project dependencies
 ├── data/               # Dataset (CSV)
 ├── notebooks/          # Jupyter notebooks (EDA)
-├── src/                # Utility functions
 └── README.md
 ```
 
